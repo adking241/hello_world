@@ -1,5 +1,5 @@
 require "sinatra"
 
 get '/' do 
-	"Hello World"
+	"Hello World, this is my first web app"
 end
